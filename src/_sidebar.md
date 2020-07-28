@@ -8,5 +8,4 @@
     - [Node Hosting](node_hosting.md)
     - [Cloud Farming (future)](cloudfarming.md)
 - [Solutions & Applications](solutions_applications.md)
-    -[Service Packs](servicepacks.md)
 - [Disclaimer](disclaimer.md)
