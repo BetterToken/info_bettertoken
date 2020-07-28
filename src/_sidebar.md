@@ -1,5 +1,5 @@
 - [Introduction](bettertoken.md)
-- [ThreeFold Farming](farming.md)
+- [ThreeFold Farming](what_is_farming.md)
     - [3Nodes](3nodes.md)
     - [Node Hosting](node_hosting.md)
     - [Cloud Farming](cloudfarming.md)
