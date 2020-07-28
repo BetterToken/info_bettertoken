@@ -1,6 +1,10 @@
-# Service Packs
+# Bringing Solutions and Applications To The ThreeFold Grid
 
-Customers can buy Service Packs with their TFT.
+BetterToken has a service for their existing and new customers to buy a service pack to help them bring their solution to the ThreeFold Grid.
+
+## Service Packs
+
+Customers can buy the Service Packs below with their TFTs*.
 
 <table>
   <tr>
@@ -137,3 +141,4 @@ If super urgent will try to start working on it < 15 min if not faster.
 
 * Weekend night, 3e level support = 1h from platinum = 250 * 2 * 3 = 1500 TFT
 
+**The TFT used to buy a Service Pack are to be/have been bought through BetterToken.*

@@ -40,4 +40,4 @@ As long as the 3Node stays online it will farm tokens.
 
 
 
-*parts of this page is sourced from the threefold wiki and can be found here: https://github.com/threefoldfoundation/info_foundation/blob/development/src/grid/what_is_farming.md*
+*parts of this page is sourced from the ThreeFold Foundation wiki and can be found here: https://github.com/threefoldfoundation/info_foundation/blob/development/src/grid/what_is_farming.md*
