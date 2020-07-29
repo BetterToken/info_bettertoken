@@ -8,4 +8,5 @@
     - [Node Hosting](node_hosting.md)
     - [Cloud Farming (future)](cloudfarming.md)
 - [Solutions & Applications](solutions_applications.md)
+- [FAQ](bettertoken_faq.md)
 - [Disclaimer](disclaimer.md)
