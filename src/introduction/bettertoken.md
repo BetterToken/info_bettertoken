@@ -1,4 +1,4 @@
-![bt logo](bettertoken_logo.jpg)
+![bt logo](Full-Logo-Dark.png)
 
 # BetterToken
 
