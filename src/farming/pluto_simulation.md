@@ -26,3 +26,4 @@ Token Price:
 Grid Utilization:
 
 !!!include:note_of_importance.md
+!!!include:simulation_note.md

@@ -24,3 +24,5 @@ Besides farming there is also cultivation.
 Cultivation is no more than people reserving the capacity on a 3Node.
 When user decides to use a farmer's capacity, the farmer in return will receive tokens.
 
+!!!include:note_of_importance.md
+

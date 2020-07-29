@@ -1,4 +1,4 @@
-![solutions header](solutionheader.png)
+![solutions header](solutionsheader.png)
 
 # Bringing Solutions and Applications To The ThreeFold Grid
 
