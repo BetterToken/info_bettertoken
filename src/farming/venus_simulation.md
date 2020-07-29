@@ -1,4 +1,4 @@
-![venus node](venus_node.png)
+![venus node](venusnode.png)
 
 # Venus Node
 Here you find 3 Scenarios for the smallest 3Node BetterToken has to offer:

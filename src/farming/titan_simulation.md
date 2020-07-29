@@ -1,4 +1,4 @@
-![titan node](titan_node.png)
+![titan node](titannode.png)
 
 # Titan Node
 Here you find 3 Scenarios for the smallest 3Node BetterToken has to offer:

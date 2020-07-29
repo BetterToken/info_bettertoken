@@ -1,4 +1,4 @@
-![pluto node](pluto_node.png)
+![pluto node](plutonode.png)
 
 # Pluto Node
 Here you find 3 Scenarios for the smallest 3Node BetterToken has to offer:
