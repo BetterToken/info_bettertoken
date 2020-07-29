@@ -1,3 +1,5 @@
+![titan node](titannode.png)
+
 # 3Nodes
 
 ## What is a 3Node
