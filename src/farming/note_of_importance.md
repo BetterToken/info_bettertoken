@@ -1,1 +1,1 @@
-> The TFT is meant to be value of exchange on the TFGrid.the TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.
+> The TFT is meant to be value of exchange on the TFGrid. TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.

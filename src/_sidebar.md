@@ -1,5 +1,5 @@
 - [Introduction](bettertoken.md)
-- [ThreeFold Farming & Farming Services](what_is_farming.md)
+- [Farming & Farming Services](what_is_farming.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)
         - [Pluto Node Simulation](pluto_simulation.md)

@@ -1,4 +1,4 @@
-![titan node](titannode.png)
+![3node](3node.png)
 
 # 3Nodes
 
