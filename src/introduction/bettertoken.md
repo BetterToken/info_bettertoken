@@ -10,14 +10,14 @@ BetterToken has multiple goals:
 
 # Why Do We Do What We Do
 
-At BetterToken we believe that the mission of the ThreeFold Foundation needs to become reality.
+At BetterToken we believe that the mission of the ThreeFold Foundation needs to become reality as the internet is moving in a direction that
 
 
 ## Farming Equipment & Services
 BetterToken provides people that are looking to become a ThreeFold Farmer with several ways to do so.
 [3Node Sales]()
-[3Node Hosting]()
-[Cloud Farming (future)]()
+[3Node Hosting](node_hosting.md)
+[Cloud Farming (future)](cloudfarming.md)
 
 
 
