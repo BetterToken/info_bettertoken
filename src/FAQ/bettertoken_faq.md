@@ -18,6 +18,9 @@ The carry-in warrantee for a SoHo Node is 2 years.
 In the event of a node having a defect it is the Farmer's responsibility to ship the node back to BetterToken.
 BetterToken will only cover the costs for shipping the node back to the farmer (if within the EU).
 
+### Shipping Abroad
+
+
 ## Node Hosting
 
 ### Can BetterToken Do Custom Builds For Node Hosting?
