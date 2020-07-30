@@ -7,7 +7,7 @@ The Pluto Node is the smallest one in the family and is no bigger than a modern 
 
 # European Union
 Europe is home to BetterToken. This makes that we can service any country within the EU easily.
-Therefore BetterToken can ship within the EU with no shippingcosts and free of import taxes. BetterToken is more than willing to ship outside of the EU but all shipping, import taxes, and other costs related are to be covered by the customer.
+Therefore BetterToken can ship within the EU with no shipping costs and free of import taxes. BetterToken is more than willing to ship outside of the EU but all shipping, import taxes, and other costs related are to be covered by the customer.
 
 # Batches
 BetterToken delivers all nodes in batches of 50 for multiple reasons:
