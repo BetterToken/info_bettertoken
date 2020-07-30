@@ -1,8 +1,24 @@
-TODO: 
+# BetterToken General Disclaimer
 
-### Needs to be reworded to BT version
+Your use of the TFGrid, 3Nodes and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens (hereinafter collectively also referred to as the “Services”) will be subject to the warnings, limitations, acknowledgements and disclaimers set out hereinafter. These statements and disclaimers are made by and on behalf of BetterToken BV and any individual related to this entity, and any person contributing or otherwise assisting in developing, marketing or distributing the Services.
 
-!!!include:disclaimer_part1.md
-!!!include:disclaimer_part2.md
-!!!include:disclaimer_part3.md
-!!!include:disclaimer_part4.md
+# Disclaimer
+To the Fullest Extent Permitted by Applicable Law the Services Are Provided on an “As Is” and “As Available” Basis Without Warranties of Any Kind, and Bette BetterToken Disclaims All Implied Warranties as to the Services, Including, Without Limitation, Implied Warranties of Merchantability, Fitness for a Particular Purpose, Title and Non-Infringement; (B) Threefold Does Not Represent or Warrant That the Services Are Accurate, Complete, Reliable, Current or Error-Free, Meet Your Requirements, or That Defects in the Services Will Be Corrected; and (C) Threefold Cannot and Does Not Represent or Warrant That the Services, or the Servers Used to Provide Such Services, Are Free of Viruses or Other Harmful Components.
+
+Tfts Are Not Issued by Any Company or Organization and Are Only Registered in a Public Blockchain When a Tf Farmer Connects It Capacity to the Tfgrid by Using the Threefold Software.
+
+by Using the Services, You Acknowledge That:
+
+You Have Sufficient Knowledge and Experience in Financial and Business Matters and Are Capable of Evaluating the Merits and Risks of Using or Acquiring Tfts, and That You Are Able to Bear the Economic Risk of Such Acquisition for an Indefinite Period of Time.
+the Services (Including the Tfts) Involve Risks, All of Which You Fully and Completely Assume, Including, but Not Limited To, the Risk Relating to the Possibility of Limited or Absent Liquidity for the Tfts on the Secondary Markets (Including the Relevant Online Exchanges), the Risk Relating to Price Fluctuations of the Tfts on Such Secondary Markets (Including the Relevant Online Exchanges), Etc.
+the Services (Including the Tfts) Have or Will Be Created and Delivered to You at Your Sole Risk on an “As Is” Basis.
+You Have Not Relied on Any Representations or Warranties Made by Threefold Outside This Document, Including, but Not Limited To, Conversations of Any Kind, Whether Through Oral or Electronic Communication, or Any White Paper. Without Limiting the Generality of the Foregoing, You Assume All Risk and Liability for the Results Obtained by the Use of Any Tokens (Including Tfts) and Regardless of Any Oral or Written Statements Made by Threefold, by Way of Technical Advice or Otherwise, Related to the Use of the Tokens.
+You Bear Sole Responsibility for Any Taxes as a Result of the Use or Acquisition of the Services (Including the Tfts), and Any Future Acquisition, Ownership, Use, Sale or Other Disposition of Tfts Held by You. to the Extent Permitted by Law, You Agree to Indemnify, Defend and Hold Threefold Harmless for Any Claim, Liability, Assessment or Penalty with Respect to Any Taxes (Other Than Any Net Income Taxes of Threefold That Result from the Sale of Tfts) Associated with or Arising from Your Purchase, Use or Ownership of Tfts.
+
+
+# Release
+To the fullest extent permitted by applicable law, you hereby explicitly release BetterToken from responsibility, liability, claims, demands and/or damages (actual and consequential) of every kind and nature, known and unknown (including, but not limited to, claims of negligence), arising out of or related to:
+
+(1) disputes between users of the Services and/or the acts or omissions of third parties; and (2) your purchase of tokens (if any) from Bettertoken BV identified in the relevant contracts as ‘Internal ThreeFold Tokens’ or ‘iTFTs’.
+
+If and to the extend you have purchased or otherwise acquired tokens from Bettertoken BV that were identified in the relevant contracts as ‘Internal ThreeFold Tokens’ or ‘iTFTs’, your use of the Services (including your subsequent receipt or acceptance of TFTs) implies your confirmation that such purchase or acquisition has been duly completed as a result of your receipt of a corresponding amount of TFTs, that all deliverables under the relevant contracts (known as ‘iTFT Purchase Agreement’, ‘TFT Purchase Agreement’ or ‘ITO investment agreement’) have been duly delivered and that there are no further obligations from one of the above-mentioned companies to you in relation to such contracts.
