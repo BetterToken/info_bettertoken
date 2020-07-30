@@ -4,7 +4,7 @@ Information has been carefully checked and is believed to be accurate; however, 
 
 BetterToken BV (hereinafter referred to as “BetterToken") reserves the right to make changes without further notice to any products to improve reliability, function, or design. 
 
-## BetterToken & ThreeFold
+## Disclaimer
 Your use of the TFGrid and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens, as well as adding capacity to the ThreeFold Grid or using services that do this for you. (hereinafter collectively also referred to as the “Services”) will be subject to the warnings, limitations, acknowledgements and disclaimers set out hereinafter. These statements and disclaimers are made by and on behalf of Bettertoken and any person contributing or otherwise assisting in developing, marketing or distributing the Services.
 
 Anybody making any of the Services provided BetterToken automatically agrees with the [ThreeFold Disclaimer](https://wiki.threefold.io/#/disclaimer) as all Services are directly related to ThreeFold and/or the ThreeFold Grid.
