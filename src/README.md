@@ -29,6 +29,7 @@ BetterToken provides people that are looking to become a ThreeFold Farmer with s
 
 ## Services & Applications On The Grid
 ![solutions header](smallsolutionsheader.png)
+
 BetterToken has a service for their existing and new customers to buy a service pack to help them bring their solution to the ThreeFold Grid.
 Find out more here [Solutions & Applications](solutions_applications.md)
 
