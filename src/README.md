@@ -11,7 +11,7 @@ BetterToken has multiple goals:
 # The ThreeFold Story In A NutShell
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAV4yYZ_P3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Why Do We Do What We Do
+# Why We Do What We Do
 
 At BetterToken we believe that the mission of the ThreeFold Foundation needs to become reality.
 ThreeFold Foundation has created and is expanding a new internet based on 3 pillars that the current internet is lacking
