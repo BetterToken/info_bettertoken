@@ -20,16 +20,15 @@ ThreeFold Foundation has created and is expanding a new internet based on 3 pill
 - Autonomy: Anybody should be able to move freely in the internet without having their data exploited for financial gains, power, and manipulation. ThreeFold puts the user as the sole owner of it's data, the TF Grid itself is owned by everyone that participates which decentralizes the ownership and thus counters monopoly's and exploiting.
 - Sustainability: The internet should be of service to the world and not have a negative impact on the environment. ThreeFold's decentralized approach and 'less is more' approach to software makes that the Grid can function at a fraction of what current solutions need.
 
-![SoHo Nodes](soho_nodes.jpg)
 ## Farming Equipment & Services
+![SoHo Nodes](soho_nodes.jpg)
 BetterToken provides people that are looking to become a ThreeFold Farmer with several ways to do so.
 - [SoHo Node](soho_nodes.md)
 - [Node Hosting](node_hosting.md)
 - [Cloud Farming (future)](cloudfarming.md)
 
-
-![solutions header](smallsolutionsheader.png)
 ## Services & Applications On The Grid
+![solutions header](smallsolutionsheader.png)
 BetterToken has a service for their existing and new customers to buy a service pack to help them bring their solution to the ThreeFold Grid.
 Find out more here [Solutions & Applications](solutions_applications.md)
 
