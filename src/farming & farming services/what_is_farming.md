@@ -22,9 +22,6 @@ A 3Node is in its essence a server that is installed with Zero-OS.
 The formfactor, size, and hardware specs can very from very large (datacenter nodes) to very small (no bigger than a modern modem).
 The hardware specifications of a 3Node are one of the factors that determine the amount of ThreeFold the device will farm.
 
-## Certification
-All 3Nodes sold or hosted by BetterToken are certified.
-
 ## Plug & Farm
 All small nodes that BetterToken ships to its customers are what we call 'plug & farm'. 
 This means the node has already been installed and configured to farm for the customer.
