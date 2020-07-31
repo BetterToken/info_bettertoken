@@ -9,6 +9,18 @@ A ThreeFold Farming Cooperative is a company that helps people become farmers.
 The ways they go about this may very per cooperative.
 BetterToken's business revolves around 3 topics: Farming Equipment, Farming Services, and Solutions & Application services.
 
+### Where Is Your Datacenter Located?
+Our Datacenter (just like our HQ)
+Resides in:
+Idola Business Center
+Antwerpse Steenweg 19
+9080 Lochristi 
+Belgium
+
+### What Is The Connection Up/Down Of Your Datacenter?
+BetterToken has a dedicated fiber connection to its datacenter of 1GBit up/down.
+This boils down to 120MB per second (give or take).
+
 ## SoHo Nodes
 
 ### How Much ThreeFold Tokens Will SoHo Nodes Farm For Me?
@@ -26,13 +38,21 @@ Therefore BetterToken can ship within the EU with no shipping costs and free of 
 
 ### What is the minimum connection I need to put a SoHo Node in my home?
 
+
+
 ## Node Hosting
 
 ### Can BetterToken Do Custom Builds For Node Hosting?
 Yes, BetterToken can provide you with the service of assembly, configuration, and maintaining for large nodes (4k+) to host in the BetterToken Datacenter.
 
 ### Can I Host Self Assembled Nodes In The Datacenter?
-No, all nodes entering our datacenter are to be assembled by trusted partners of BetterToken.
+No, all nodes entering our datacenter are to be assembled by trusted partners of BetterToken. This for quality control, and security measures for surrounding nodes.
+
+## Applications & Solutions
+
+### What Are The Service BetterToken Provides To Help People Get Workloads Running On The ThreeFold Grid?
+We have an array of services we provide to get our customers up and running.
+Most of them can be found [here in our Applications & Solution](solutions_applications.md) section of the wiki.
 
 
 
