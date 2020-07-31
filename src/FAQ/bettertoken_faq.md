@@ -1,3 +1,5 @@
+![FAQ](https://images.unsplash.com/photo-1517354690409-ff59e0aa4558?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900)
+
 # Frequently Asked Questions
 
 ## Bettertoken In General
@@ -21,6 +23,8 @@ BetterToken will only cover the costs for shipping the node back to the farmer (
 ### Do I have to pay shipping costs when I order a SoHo Node at BetterToken
 Europe is home to BetterToken.
 Therefore BetterToken can ship within the EU with no shipping costs and free of import taxes however, BetterToken is more than willing to ship outside of the EU but all shipping, import taxes, and other costs related are to be covered by the customer.
+
+### What is the minimum connection I need to put a SoHo Node in my home?
 
 ## Node Hosting
 
