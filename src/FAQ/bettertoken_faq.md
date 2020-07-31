@@ -1,4 +1,4 @@
-![FAQ](https://images.unsplash.com/photo-1517354690409-ff59e0aa4558?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900)
+![FAQ](https://images.unsplash.com/photo-1580722434936-3d175913fbdc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80)
 
 # Frequently Asked Questions
 
@@ -37,7 +37,7 @@ Europe is home to BetterToken.
 Therefore BetterToken can ship within the EU with no shipping costs and free of import taxes however, BetterToken is more than willing to ship outside of the EU but all shipping, import taxes, and other costs related are to be covered by the customer.
 
 ### What is the minimum connection I need to put a SoHo Node in my home?
-
+BetterToken recommends at least a 300 Mbps down/20 Mbps up connection for the SoHo Nodes.
 
 
 ## Node Hosting
