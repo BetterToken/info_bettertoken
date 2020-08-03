@@ -1,0 +1,19 @@
+#can be many wiki & many www sites
+
+[server]
+port = 3000
+addr = "0.0.0.0"
+
+
+[[wiki]]
+name = "wiki2_bettertoken"
+title = "Grid Manual Staging"
+url = "https://github.com/BetterToken/info_bettertoken.git"
+path = ""
+autocommit = false
+branch = "development"
+branchswitch = false
+srcdir = "src"
+environment = "testing"
+domain = "wiki2.bettertoken.com"
+
