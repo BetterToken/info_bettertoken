@@ -12,5 +12,4 @@
         - [Cloud Productions Rate](cpr.md)
 - [Solutions & Applications](solutions_applications.md)
 - [FAQ](bettertoken_faq.md)
-- [TF Resources](tf_resources.md)
 - [Disclaimer](disclaimer.md)
