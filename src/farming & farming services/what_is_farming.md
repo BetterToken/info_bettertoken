@@ -14,13 +14,13 @@ There are two types of ThreeFold Farmers
 
 ![](circular_tft.png)
 
-Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of the ThreeFold Grid and its ecosystem according to it's vision and values. To fund these activites, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation to finance the ThreeFold Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.
+Note that the ThreeFold Foundation's sole purposes is to ensure the expansion of the ThreeFold Grid and its ecosystem according to its vision and values. To fund these activites, a part of each transaction that pays TFTs for cultivation is going to the ThreeFold Foundation to finance the ThreeFold Grid's expansion and to fund projects that are believed to bring a positive human or planet impact.
 
 ## What is a 3Node
 
 A 3Node is in its essence a server that is installed with Zero-OS.
-The formfactor, size, and hardware specs can very from very large (datacenter nodes) to very small (no bigger than a modern modem).
-The hardware specifications of a 3Node are one of the factors that determine the amount of ThreeFold the device will farm.
+The formfactor, size, and hardware specs can vary from very large (datacenter nodes) to very small (no bigger than a modern modem).
+The hardware specifications of a 3Node are one of the factors that determine the amount of ThreeFold Tokens the device will farm.
 
 ## Plug & Farm
 All small nodes that BetterToken ships to its customers are what we call 'plug & farm'. 
@@ -37,4 +37,4 @@ As long as the 3Node stays online it will farm tokens.
 
 
 
-*parts of this page is sourced from the ThreeFold Foundation wiki and can be found here: https://github.com/threefoldfoundation/info_foundation/blob/development/src/grid/what_is_farming.md*
+*parts of this page are sourced from the ThreeFold Foundation wiki and can be found here: https://github.com/threefoldfoundation/info_foundation/blob/development/src/grid/what_is_farming.md*

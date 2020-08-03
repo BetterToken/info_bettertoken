@@ -3,7 +3,7 @@
 # Venus Node
 Here you find 3 Scenarios for the largest 3Node BetterToken has to offer:
 
-## Simulations 1
+## Simulation 1
 
 **Simulation settings:**
 
@@ -13,7 +13,7 @@ ROI: 16.1
 ![venus 1 usd](venus-1usd.jpg)
 
 
-## Simulations 2
+## Simulation 2
 
 **Simulation settings:**
 
@@ -23,7 +23,7 @@ ROI: 4.9
 ![venus 1 usd](venus-2usd.jpg)
 
 
-## Simulations 3
+## Simulation 3
 
 **Simulation settings:**
 

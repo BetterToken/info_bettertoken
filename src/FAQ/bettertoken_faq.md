@@ -2,9 +2,9 @@
 
 # Frequently Asked Questions
 
-## Bettertoken In General
+## BetterToken In General
 
-### What Is A ThreeFold Farming Cooperative
+### What Is A ThreeFold Farming Cooperative?
 A ThreeFold Farming Cooperative is a company that helps people become farmers.
 The ways they go about this may very per cooperative.
 BetterToken's business revolves around 3 topics: Farming Equipment, Farming Services, and Solutions & Application services.
@@ -21,9 +21,14 @@ Belgium
 BetterToken has a dedicated fiber connection to its datacenter of 1GBit up/down.
 This boils down to 120MB per second (give or take).
 
+### I Want to Become a Farmer but I Am Not Technical at All and I Don't Know Where to Start. What Should I Do?
+BetterToken has multiple options available to anyone, no technical experience is needed to: [Host A Node](node_hosting.md), Run a [SoHo Node](soho_nodes.md), or in the future become a [Cloud Farmer](cloudfarming.md). Feel free to reach out to us on [support@bettertoken.com](mailto:support@bettertoken.com) at any time if you need additional help. We are more than happy to help you.
+
 ## SoHo Nodes
 
-### How Much ThreeFold Tokens Will SoHo Nodes Farm For Me?
+### What Does Plug & Farm Mean?
+
+### How Many ThreeFold Tokens Will SoHo Nodes Farm For Me?
 In the [SoHo Node section](soho_nodes.md) we have added 3 simulations for each node.
 Important to note is that these are simulations of scenarios that could happen but should not be looked at as a guarantee in any shape or form.
 
@@ -32,12 +37,12 @@ The carry-in warrantee for a SoHo Node is 2 years.
 In the event of a node having a defect it is the Farmer's responsibility to ship the node back to BetterToken.
 BetterToken will only cover the costs for shipping the node back to the farmer (if within the EU).
 
-### Do I have to pay shipping costs when I order a SoHo Node at BetterToken
+### Do I have to pay shipping costs when I order a SoHo Node at BetterToken?
 Europe is home to BetterToken.
 Therefore BetterToken can ship within the EU with no shipping costs and free of import taxes however, BetterToken is more than willing to ship outside of the EU but all shipping, import taxes, and other costs related are to be covered by the customer.
 
 ### What is the minimum connection I need to put a SoHo Node in my home?
-BetterToken recommends at least a 300 Mbps down/20 Mbps up connection for the SoHo Nodes.
+BetterToken recommends at least a 300 Mbps down/20 Mbps up connection for the SoHo Nodes. Any modern day connection should be able to reach these speeds but to be sure you can always check connection speed testers like: [Speedtest.net](https://www.speedtest.net/) or [Fast](https://fast.com/)
 
 
 ## Node Hosting

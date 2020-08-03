@@ -5,8 +5,8 @@
 ## What is a 3Node
 
 A 3Node is in its essence a server that is installed with Zero-OS.
-The formfactor, size, and hardware specs can very from very large (datacenter nodes) to very small (no bigger than a modern modem).
-The hardware specifications of a 3Node are one of the factors that determine the amount of ThreeFold the device will farm.
+The formfactor, size, and hardware specs can vary from very large (datacenter nodes) to very small (no bigger than a modern modem).
+The hardware specifications of a 3Node are one of the factors that determine the amount of ThreeFold Tokens the device will farm.
 
 ## Plug & Farm
 All small nodes that BetterToken ships to its customers are what we call 'plug & farm'. 
@@ -22,7 +22,7 @@ As long as the 3Node stays online it will farm tokens.
 ## Cultivation
 Besides farming there is also cultivation.
 Cultivation is no more than people reserving the capacity on a 3Node.
-When user decides to use a farmer's capacity, the farmer in return will receive tokens.
+When a user decides to use a farmer's capacity, the farmer in return will receive tokens.
 
 !!!include:note_of_importance.md
 

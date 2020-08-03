@@ -1,3 +1,4 @@
+- [Home](readme.md)
 - [Farming & Farming Services](what_is_farming.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)

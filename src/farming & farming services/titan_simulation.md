@@ -3,7 +3,7 @@
 # Titan Node
 Here you find 3 Scenarios for the Medium-sized 3Node BetterToken has to offer:
 
-## Simulations 1
+## Simulation 1
 
 **Simulation settings:**
 
@@ -13,7 +13,7 @@ ROI: 4.1
 ![titan 1 usd](titan-1usd.jpg)
 
 
-## Simulations 2
+## Simulation 2
 
 **Simulation settings:**
 
@@ -23,7 +23,7 @@ ROI: 19.5
 ![titan 1 usd](titan-2usd.jpg)
 
 
-## Simulations 3
+## Simulation 3
 
 **Simulation settings:**
 
