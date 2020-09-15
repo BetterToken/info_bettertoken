@@ -1,6 +1,4 @@
-![venus node](venusnode.png)
 
-# Venus Node
 Here you find 3 Scenarios for the largest 3Node BetterToken has to offer:
 
 ## Simulation 1
