@@ -5,16 +5,16 @@ The Pluto Node has been created with a focus on minimalism and dimensions. This 
 
 ## Specifications
 
-Intel Core i5-5257U (2 Cores/4 Threads)
-8 GB Ram
-128 GB SSD
-1TB HDD
+* Intel Core i5-5257U (2 Cores/4 Threads)
+* 8 GB Ram
+* 128 GB SSD
+* 1TB HDD
 
 ## Dimensions
 
-Width 124 mm
-Height 41 mm
-Depth 113 mm  
+* Width 124 mm
+* Height 41 mm
+* Depth 113 mm  
 
 ## Simulations
 

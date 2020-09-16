@@ -6,16 +6,16 @@ The Titan Node is a medium sized node that already packs quite a punch and will 
 
 ## Specifications
 
-AMD Ryzen 5 3400G
-32 GB Ram
-512 GB SSD (NAND)
-1 TB HDD
+* AMD Ryzen 5 3400G
+* 32 GB Ram
+* 512 GB SSD (NAND)
+* 1 TB HDD
 
 ## Dimensions
 
-Width 176 mm
-Height 200 mm
-Depth 380 mm  
+* Width 176 mm
+* Height 200 mm
+* Depth 380 mm  
 
 ## Simulations
 
