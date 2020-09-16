@@ -1,4 +1,4 @@
-![titan node](titannode.png)
+
 
 # Titan Node
 Here you find 3 Scenarios for the Medium-sized 3Node BetterToken has to offer:
