@@ -1,6 +1,9 @@
 
 Here you find 3 Scenarios for the largest 3Node BetterToken has to offer:
 
+!!!include:note_of_importance.md
+!!!include:simulation_note.md
+
 ## Simulation 1
 
 **Simulation settings:**
