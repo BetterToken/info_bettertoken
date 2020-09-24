@@ -6,7 +6,8 @@ The Titan Node is a medium sized node that already packs quite a punch and will 
 
 ## Specifications
 
-* AMD Ryzen 3 3200G
+* AMD Ryzen 3 3200G (4 logical cores)
+* CPU Passmark: 7,200
 * 8 GB Ram
 * 480 GB SSD 
 
@@ -16,6 +17,4 @@ The Titan Node is a medium sized node that already packs quite a punch and will 
 * Height 200 mm
 * Depth 380 mm  
 
-## Simulations
-
-Simulations for Pluto_v2 to come.
+!!!include:simulation_note.md

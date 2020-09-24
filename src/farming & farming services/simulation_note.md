@@ -1,1 +1,1 @@
->Note of importance: The simulations are purely based on what could happen. The simulations featured throughout this wiki should not be considered advice for investment. BetterToken follows the beliefs of ThreeFold Foundation that the TF Token value should not be based on speculation or velocity. And people that buy it should buy it only when they are 100% behind the cause. 
+>We get a lot of requests for ROI predictions for ThreeFold Nodes. We understand this, but we are not in the position to provide numbers as these could be viewed as investment advice. 
