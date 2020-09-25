@@ -1,1 +1,1 @@
->We get a lot of requests for ROI predictions for ThreeFold Nodes. We understand this, but we are not in the position to provide numbers as these could be viewed as investment advice. 
+>We are not in a position to provide any ROI numbers for this ThreeFold Node as doing so could be regarded as investment advice. 
