@@ -1,6 +1,6 @@
 ![titan node](titannode.png)
 
-# Titan Node
+# Titan Node V2
 The Titan Node is a medium sized node that already packs quite a punch and will be able to run heavier workloads.
 
 

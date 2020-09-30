@@ -1,6 +1,6 @@
 ![venus node](venusnode.png)
 
-# Titan Node
+# Venus Node V2
 The Venus node is the mother of the smaller 3nodes.
 She comes in around the same size of a small pc tower and packs a lot of power!
 
