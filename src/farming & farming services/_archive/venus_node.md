@@ -7,10 +7,10 @@ She comes in around the same size of a small pc tower and packs a lot of power!
 
 ## Specifications
 
-* AMD Ryzen 5 3600
-* 64 GB Ram
-* 512 GB SSD (NAND)
-* 2 x 1 TB HDD
+* AMD Ryzen 9 3600
+* 128 GB Ram
+* 2 GB SSD 
+* 2 x 7 TB HDD
 
 ## Dimensions
 
@@ -19,5 +19,3 @@ She comes in around the same size of a small pc tower and packs a lot of power!
 * Depth 400 mm 
 
 ## Simulations
-
-!!!include:venus_simulation.md
