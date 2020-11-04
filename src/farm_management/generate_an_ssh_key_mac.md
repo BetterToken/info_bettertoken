@@ -14,7 +14,7 @@ The other is the public key. When you generate your keys, you will use ssh-keyge
 
 Enter the following command in the Terminal window:
 
-> ssh-keygen -t rsa -b 4096
+`ssh-keygen -t rsa -b 4096`
 This starts the key generation process. When you execute this command, the ssh-keygen utility prompts you to indicate where to store the key.
 
 Press the ENTER key to accept the default location. The ssh-keygen utility prompts you for a passphrase.
