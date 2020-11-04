@@ -23,7 +23,7 @@ Type in a passphrase. You can also hit the ENTER key to accept the default (no p
 
 After you confirm the passphrase, the system generates the key pair and you will see output like this:
 
-> Your identification has been saved in /Users/yourmacusername/.ssh/id_rsa.
+Your identification has been saved in /Users/yourmacusername/.ssh/id_rsa.
 Your public key has been saved in /Users/yourmacusername/.ssh/id_rsa.pub.
 The key fingerprint is:
 ae:89:72:0b:85:da:5a:f4:7c:1f:c2:43:fd:c6:44:38 yourmacusername@yourmac.local
@@ -39,9 +39,9 @@ The key's randomart image is:
 | o...o * o       |
 |.  oo.o .        |
 +-----------------+
-Your private key is saved to the id_rsa file in the .ssh subdirectory of your home directory and is used to verify the public key you use belongs to your Gerrit account.
+Your private key is saved to the id_rsa file in the .ssh subdirectory of your home directory and is used to verify the public key you spin up your 3Bot.
 
-** Warning Never share your private key with anyone! Ever! We mean it!**
+**Warning Never share your private key with anyone! Ever! We mean it!**
 
 Your public key is saved to a file called id_rsa.pub in the .ssh subdirectory of your home directory. You can copy it to your clipboard using the following command:
 
