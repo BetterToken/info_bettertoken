@@ -22,12 +22,14 @@ Type in a passphrase. You can also hit the ENTER key to accept the default (no p
 **Warning: You will need to enter the passphrase a second time to continue.**
 
 After you confirm the passphrase, the system generates the key pair and you will see output like this:
-
+```
 Your identification has been saved in /Users/yourmacusername/.ssh/id_rsa.
 Your public key has been saved in /Users/yourmacusername/.ssh/id_rsa.pub.
 The key fingerprint is:
+```
 ae:89:72:0b:85:da:5a:f4:7c:1f:c2:43:fd:c6:44:38 yourmacusername@yourmac.local
 ```
+
 The key's randomart image is:
 +--[ RSA 2048]----+
 |                 |
