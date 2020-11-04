@@ -5,5 +5,5 @@
 For encryption purposes your Hosted 3Bot will need an SSH Key. 
 We will show you here in easy steps how this is done.
 
-[Generating An SSH Key For PC/Windows](generate_an_ssh_key_pc)
-[Generating An SSH Key For Mac](generate_an_ssh_key_mac)
+[Generating An SSH Key For PC/Windows](generate_an_ssh_key_pc.md)
+[Generating An SSH Key For Mac](generate_an_ssh_key_mac.md)
