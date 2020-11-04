@@ -11,9 +11,11 @@
         - [Cloud Units](cloud_units.md)
         - [Cloud Productions Rate](cpr.md)
     - [Farm Management](farm_management_intro.md)
+        - Part 1
         - [Get 3Bot Connect](get_3bot_connect.md)
         - [Acquiring Tokens](get_tft_for_3bot.md)
         - [Generate an SSH Key](generate_an_ssh_key.md)
+        - Part 2
         - [Launch a 3Bot](getting_a_hosted_3bot.md)
 - [Solutions & Applications](solutions_applications.md)
 - [FAQ](bettertoken_faq.md)
