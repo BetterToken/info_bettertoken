@@ -17,6 +17,8 @@
         - [Generate an SSH Key](generate_an_ssh_key.md)
         - Part 2
         - [Launch a 3Bot](getting_a_hosted_3bot.md)
+        - [Finding your 3Bot's ID](finding_3bot_id.md)
+        - [Installing Farm Management Tool](install_farm_management.md)
 - [Solutions & Applications](solutions_applications.md)
 - [FAQ](bettertoken_faq.md)
 - [Disclaimer](disclaimer.md)

@@ -20,5 +20,5 @@ Once these steps are completed you can now move on to part 2.
 ### Part 2.
 
 1. [Setting up your Hosted 3Bot](getting_a_hosted_3bot.md)
-2. [Installing Farm Management Tool](install_farm_management.md)
-3. [Finding Your 3Bot ID](finding_3bot_id.md)
+2. [Finding Your 3Bot ID](finding_3bot_id.md)
+3. [Installing Farm Management Tool](install_farm_management.md)
