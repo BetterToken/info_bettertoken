@@ -26,7 +26,6 @@ After you confirm the passphrase, the system generates the key pair and you will
 Your identification has been saved in /Users/yourmacusername/.ssh/id_rsa.
 Your public key has been saved in /Users/yourmacusername/.ssh/id_rsa.pub.
 The key fingerprint is:
-```
 ae:89:72:0b:85:da:5a:f4:7c:1f:c2:43:fd:c6:44:38 yourmacusername@yourmac.local
 ```
 
