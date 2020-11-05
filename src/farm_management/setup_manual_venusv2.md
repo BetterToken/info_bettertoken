@@ -36,9 +36,9 @@ PLEASE NOTE: A 3Node should always be placed on a dust free and flat service loc
 1. Head over to our [Farm Setup & Management](farm_management_intro.md) section and complete the steps to add your farm to a 3bot.
 2. Head over to our [ThreeFold Explorer](https://explorer.grid.tf) to see if your 3Node is up and running by searching your farm name.
 
-### TROUBLESHOOTING
+## Troubleshooting
 
-#### The 3Node is does not start after pressing the power button?
+### The 3Node is does not start after pressing the power button?
 
 Please Verify the following connections:
 
@@ -47,7 +47,7 @@ Please Verify the following connections:
 3. Between the power cable and the outlet
 4. Verify that mains power is available on the wall outlet
 
-#### The 3Node is not showing up on the explorer
+### The 3Node is not showing up on the explorer
 1. Make sure your search query is correctly spelled when searching your farm name (please toggle "show offline nodes" when doing so).
 2. Make sure your network connection is healthy and up and there are no outages in your area.
 
