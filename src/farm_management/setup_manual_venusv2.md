@@ -1,4 +1,4 @@
-![venus_v2_packshot.jpg](venus_v2_packshot.jpg)
+![nodes](soho_nodes.jpg)
 
 # 3Node Setup Guide
 
