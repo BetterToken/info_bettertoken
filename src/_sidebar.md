@@ -10,7 +10,7 @@
     - [Concepts & Definitions](concepts_definitions.md)
         - [Cloud Units](cloud_units.md)
         - [Cloud Productions Rate](cpr.md)
-    - [Farm Management](farm_management_intro.md)
+    - [Farm Setup & Management](farm_management_intro.md)
         - Part 1
         - [Get 3Bot Connect](get_3bot_connect.md)
         - [Acquiring Tokens](get_tft_from_bt.md)
