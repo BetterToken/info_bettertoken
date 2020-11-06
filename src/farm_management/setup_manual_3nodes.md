@@ -14,9 +14,9 @@ Inspect the package and its contents directly after delivery and report all ship
 
 Verify package contents:
 
-1x 3Node
-1x Power adapter
-1x USB Drive (already plugged into the Zero Node)
+- 1x 3Node
+- 1x Power adapter
+- 1x USB Drive (already plugged into the Zero Node)
 
 ## Step 2: Connecting the 3Node to a power source and modem
 
