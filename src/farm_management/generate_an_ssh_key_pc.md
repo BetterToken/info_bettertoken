@@ -1,4 +1,4 @@
-## Generate SSH Keys On PC
+# Generate SSH Keys On PC
 We will now go over the steps on how to create a public and private key on PC using PuTTY.
 
 ## Step 1: Install PuTTY
