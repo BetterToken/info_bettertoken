@@ -32,10 +32,8 @@ Click the wallet you would like to see the address from (if you want to copy pas
 
 #### Step 3
 
-Click the green button with the Info (i) icon in the top right part of your screen
-![](./img/wallet_details.png)
+Click the copy icon in the topright section of the wallet you want to copy the address from
+![](./img/wallet_overview_copyaddress.png)
 
 #### Step 4
-
-You can now see your wallet address.
-![](./img/wallet_address.png)
+You can now paste this address into the email.
