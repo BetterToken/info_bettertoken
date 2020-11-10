@@ -15,8 +15,8 @@
         - [Get 3Bot Connect](get_3bot_connect.md)
         - [Acquire Tokens](get_tft_from_bt.md)
         - [Generate an SSH Key](generate_an_ssh_key.md)
-            - [Generate an SSH Key Windows](generate_an_ssh_key_pc.md)
-            - [Generate an SSH Key Mac](generate_an_ssh_key_mac.md)
+            - [Windows: SSH Key Generating](generate_an_ssh_key_pc.md)
+            - [Mac OSX: SSH Key Generating](generate_an_ssh_key_mac.md)
         - Part 2
         - [Launch a 3Bot](getting_a_hosted_3bot.md)
         - [Find your 3Bot ID](finding_3bot_id.md)
