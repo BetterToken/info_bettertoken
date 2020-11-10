@@ -1,4 +1,4 @@
-# Tokens To Setup Your 3Bot
+# Acquire tokens To Setup Your 3Bot
 
 As purchasers of a 3Node at BetterToken we will send you an initial (small) amount of TFT to help you set up your 3Bot.
 You can reach out via: [tokensfor3bot@bettertoken.com](mailto:tokensfor3bot@bettertoken.com)
@@ -6,7 +6,7 @@ You can reach out via: [tokensfor3bot@bettertoken.com](mailto:tokensfor3bot@bett
 Please include in this email:
 
 - Your Name
-- Farmname
+- Farm name
 - ThreeFold Wallet Address
 
 
@@ -37,3 +37,6 @@ Click the copy icon in the topright section of the wallet you want to copy the a
 
 #### Step 4
 You can now paste this address into the email.
+
+
+[Step 3: Generate An SSH Key](generate_and_ssh_key.md)

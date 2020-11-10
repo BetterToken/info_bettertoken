@@ -1,4 +1,4 @@
-# 3Bot Connect App
+# Get The 3Bot Connect App
 
 ![alt](./img/3bot_connect_4screens.jpg)
 ## Introduction
@@ -13,8 +13,8 @@
 
 3bot connect is available on both iOS devices and Android devices.
 
-[Download 3bot Connect for iOS](https://apps.apple.com/us/app/3bot-login/id1459845885)
-[Download 3bot Connect for Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US)
+- [Download 3bot Connect for iOS](https://apps.apple.com/us/app/3bot-login/id1459845885)
+- [Download 3bot Connect for Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US)
 
 ## Registration and login
   
@@ -27,10 +27,12 @@ We highly recommend writing down your seed key on a paper and store it safely of
 
 > **3Bot does not have any access to or maintain records of your private key. It is your personal responsibility to keep your 24-word private key in a safe place.**
 
-> **Do not share your private key with anyone, it is strictly personal. Losing your private key means losing access to your wallet and all your ThreeFold Tokens.**
+> **Do not share your private key with anyone, it is strictly personal. Losing your private key means potentially losing access to your wallet and all your ThreeFold Tokens.**
 
-> **Anybody with access to your private key can take ownership of your 3Bot Connect wallet and ThreeFold tokens**
+> **Anybody with access to your private key can take ownership of your 3Bot Connect wallet and ThreeFold Tokens**
 
 > **To access your wallet from another wallet (on another phone or online) you will need your private key (seed), without this private key your account cannot be recovered on another device or online wallet.**
 
 Finish these steps and choose your new pin, then confirm it and confirm your email address.
+
+[Step 2: Acquiring ThreeFold Tokens](get_tft_from_bt.md)

@@ -13,12 +13,14 @@
     - [Farm Setup & Management](farm_management_intro.md)
         - Part 1
         - [Get 3Bot Connect](get_3bot_connect.md)
-        - [Acquiring Tokens](get_tft_from_bt.md)
+        - [Acquire Tokens](get_tft_from_bt.md)
         - [Generate an SSH Key](generate_an_ssh_key.md)
+            - [Generate an SSH Key Windows](generate_an_ssh_key_pc.md)
+            - [Generate an SSH Key Mac](generate_an_ssh_key_mac.md)
         - Part 2
         - [Launch a 3Bot](getting_a_hosted_3bot.md)
-        - [Finding your 3Bot's ID](finding_3bot_id.md)
-        - [Installing Farm Management Tool](install_farm_management.md)
+        - [Find your 3Bot ID](finding_3bot_id.md)
+        - [Install Farm Management Tool](install_farm_management.md)
 - [Solutions & Applications](solutions_applications.md)
 - [FAQ](bettertoken_faq.md)
 - [Disclaimer](disclaimer.md)

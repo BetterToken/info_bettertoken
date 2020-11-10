@@ -10,11 +10,11 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 On the initial dialog of the installation wizard, click Next.
 
-Select the destination folder. Use the default installation configuration unless you have a specific need to change it. Click Next to move on to the next screen.
-Select destination folder for the PuTTY installation
-Select PuTTY product features to be installed. Stick to the defaults if you do not have any specific needs. Click Next to move on to the next screen.
-Putty product features selected
-Once the process completes, click Finish to exit the installation wizard.
+1. Select the destination folder. Use the default installation configuration unless you have a specific need to change it. Click Next to move on to the next screen.
+2. Select destination folder for the PuTTY installation
+3. Select PuTTY product features to be installed. Stick to the defaults if you do not have any specific needs. Click Next to move on to the next screen.
+4. Putty product features selected
+5. Once the process completes, click Finish to exit the installation wizard.
 
 ## Step 2: Run the PuTTY SSH Key Generator
 1. Press the Windows key.
@@ -57,7 +57,4 @@ Give the key a name (e.g., putty_key).
 ## Using Your SSH Keys
 To use your SSH keys, copy your public SSH key to the system you want to connect to. Use your private SSH key on your own system. Your private key will match up with the public key, and grant access.
 
-For further details and troubleshooting, see our guide on paswordless SSH login using SSH keys.
-
-Conclusion
-This article has provided two methods of generating SSH key pairs on a Windows 10 system. Use the SSH keys to connect to a remote system without the use of passwords.
+[Step 4: Launch a Hosted 3Bot](getting_a_hosted_3bot.md)

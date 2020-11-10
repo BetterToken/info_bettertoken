@@ -1,4 +1,4 @@
-# Creating a SSH Public Key on OSX
+# Creating a SSH Key on OSX
 You generate an SSH key through Mac OS X by using the Terminal application. 3Bot needs an SSH key for encryption purposes.
 
 ## Finding the Terminal App
@@ -6,7 +6,11 @@ You generate an SSH key through Mac OS X by using the Terminal application. 3Bot
 The terminal provides you with a text-based command line interface to the Unix shell of Mac OS X.
 To open the Mac OS X Terminal, follow these steps:
 
-- In Finder, choose Utilities from the Go menu. Find the Terminal application in the Utilities window. Double-click the Terminal application. The Terminal window opens with the command line prompt displaying the name of your machine and your username.
+- In Finder, choose Utilities from the Go menu. 
+- Find the Terminal application in the Utilities window. 
+- Double-click the Terminal application. 
+- The Terminal window opens with the command line prompt displaying the name of your machine and your username.
+
 An SSH key consists of a pair of files. One is the private key, **which you should never give to anyone. No one will ever ask you for it and if so, simply ignore them - they are trying to steal it.** 
 The other is the public key. When you generate your keys, you will use ssh-keygen to store the keys in a safe location.
 
@@ -53,4 +57,6 @@ You can copy it to your clipboard using the following command:
 
 > pbcopy < ~/.ssh/id_rsa.pub
 
-You public key is not copied to your clipboard and you can now input it in the hosted 3Bot deployer to spin up your 3bot.
+Your public key is now copied to your clipboard and you can now input it in the hosted 3Bot deployer to spin up your 3Bot.
+
+[Step 4: Launch a Hosted 3Bot](getting_a_hosted_3bot.md)
