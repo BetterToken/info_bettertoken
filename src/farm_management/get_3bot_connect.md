@@ -1,4 +1,4 @@
-# Get The 3Bot Connect App
+# Get The ThreeFold Connect App
 
 ![alt](./img/3bot_connect_4screens.jpg)
 ## Introduction
