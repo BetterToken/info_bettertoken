@@ -4,7 +4,7 @@
 
 **Congratulations on becoming a Threefold Farmer!**
 In order to add your 3Node to the Threefold Grid a few steps
-need to be taken. Once completed you will be able to see the status of your 3Node. If you have any additional questions or issues, feel free to contact us through support@bettertoken.com.
+need to be taken. Once completed you will be able to see the status of your 3Node. If you have any additional questions or issues, feel free to contact us through [support@bettertoken.com](mailto:support@bettertoken.com)
 
 ## Step 1: Verify package contents
 Inspect the package and its contents directly after delivery and report any shipping damages to support@bettertoken.com immediately.
@@ -13,7 +13,7 @@ Verify package contents:
 
 - 1x 3Node
 - 1x Power adapter
-- 1x USB Drive (already plugged into the Zero Node)
+- 1x USB Drive (already plugged into the 3Node)
 
 ## Step 2: Connecting the 3Node to a power source and modem
 
@@ -49,5 +49,4 @@ Please verify the following connections:
 1. Make sure your search query is correctly spelled when searching your farm name (please toggle "show offline nodes" when doing so).
 2. Make sure your network connection is healthy and up and there are no outages in your area.
 
-If both check out please contact support through [support@threefold.io](mailto:support@threefold.io) or use the chat applet on our [main website](https://threefold.io) found in the bottom right part of your screen.
-
+If both check out please contact support through [support@bettertoken.com](mailto:support@bettertoken.com)
