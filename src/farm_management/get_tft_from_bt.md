@@ -39,4 +39,4 @@ Click the copy icon in the topright section of the wallet you want to copy the a
 You can now paste this address into the email.
 
 
-[Step 3: Generate An SSH Key](generate_and_ssh_key.md)
+[Step 3: Generate An SSH Key](generate_an_ssh_key.md)
