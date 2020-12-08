@@ -2,7 +2,6 @@
 - [Farming & Farming Services](what_is_farming.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)
-        - [Pluto Node v2](pluto_node_v2.md)
         - [Titan Node v2](titan_node_v2.md)
         - [Venus Node v2](venus_node_v2.md)
     - [Node Hosting](node_hosting.md)
