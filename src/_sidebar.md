@@ -2,7 +2,6 @@
 - [Farming & Farming Services](what_is_farming.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)
-        - [Pluto Node v2](pluto_node_v2.md)
         - [Titan Node v2](titan_node_v2.md)
         - [Venus Node v2](venus_node_v2.md)
     - [Node Hosting](node_hosting.md)
@@ -10,6 +9,14 @@
     - [Concepts & Definitions](concepts_definitions.md)
         - [Cloud Units](cloud_units.md)
         - [Cloud Productions Rate](cpr.md)
+    - [Farm Setup & Management](farm_management_intro.md)
+        - Part 1
+        - [Get 3Bot Connect](get_3bot_connect.md)
+        - [Acquire Tokens](get_tft_from_bt.md)
+        - Part 2
+        - [Launch a 3Bot](getting_a_hosted_3bot.md)
+        - [Find your 3Bot ID](finding_3bot_id.md)
+        - [Install Farm Management Tool](install_farm_management.md)
 - [Solutions & Applications](solutions_applications.md)
 - [FAQ](bettertoken_faq.md)
 - [Disclaimer](disclaimer.md)
