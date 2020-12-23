@@ -35,4 +35,4 @@ We highly recommend writing down your seed key on a paper and store it safely of
 
 Finish these steps and choose your new pin, then confirm it and confirm your email address.
 
-[Step 2: Acquiring ThreeFold Tokens](get_tft_from_bt.md)
+[Part 2: Acquiring ThreeFold Tokens](get_tft_from_bt.md)

@@ -16,7 +16,7 @@ In this section of the wiki we will go over the steps to add your farm to your 3
 There are some pre-requisites you need to meet before you can create you own 3Bot.
 You will need:
 
-1. [The 3Bot Connect App installed to your phone or tablet](get_3bot_connect.md)
+1. [The 3Bot Connect App installed to your phone or tablet](get_threefold_connect.md)
 2. [At least a few ThreeFold Tokens in your Wallet to create your 3Bot](get_tft_from_bt.md)
 3. [A Public SSH key to link to your 3Bot](generate_and_ssh_key.md)
 
