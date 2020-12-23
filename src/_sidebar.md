@@ -11,7 +11,7 @@
         - [Cloud Productions Rate](cpr.md)
     - [Farm Setup & Management](farm_management_intro.md)
         - Part 1
-        - [Get 3Bot Connect](get_threefold_connect.md)
+        - [Get ThreeFold Connect](get_threefold_connect.md)
         - [Acquire Tokens](get_tft_from_bt.md)
         - Part 2
         - [Launch a 3Bot](getting_a_hosted_3bot.md)

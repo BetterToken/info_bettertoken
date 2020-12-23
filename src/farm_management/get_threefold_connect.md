@@ -1,6 +1,6 @@
 # Get The ThreeFold Connect App
 
-![alt](./img/3bot_connect_4screens.jpg)
+![alt](./img/threefold_connect_4screens.jpg)
 ## Introduction
 
 3Bot Connect is an app that is more than just a wallet. It is:
