@@ -1,6 +1,6 @@
 
 
-Please visit the ![Hosted 3Bot Deployer for Mainnet](https://deploy3bot.testnet.grid.tf/auth/login?next_url=/) and complete the steps described underneath.
+Please visit the [Hosted 3Bot Deployer for Mainnet](https://deploy3bot.testnet.grid.tf/auth/login?next_url=/) and complete the steps described underneath.
 
 - Step 1 - Login: Login with your ThreeFold Connect App.
 - Step 2 - Deploy: Click Deploy a New 3Bot
@@ -15,6 +15,7 @@ Please visit the ![Hosted 3Bot Deployer for Mainnet](https://deploy3bot.testnet.
 - Step 12 - Payment: Open your ThreeFold Connect app, go to wallet, press the green transaction icon with the 2 arrows, and press scan QR. Then aim your telephone at the QR-code displayed on your computer screen. 
 - Step 13 - Container Access: If your payment succeeds you will get this the containter access screen, you can ignore this.
 - Step 14 - Success: You can now visit your Hosted 3Bot through the link provided in the success screen.
+![success screen](success.png)
 
 You Can now continue to part 5 for the tutorial.
 [Part 4: Find your 3bot ID](finding_3bot_id.md)
