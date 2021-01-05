@@ -6,8 +6,8 @@
 3Bot Connect is an app that is more than just a wallet. It is:
 - A wallet to hold digital currencies
 - 100% private two factor authenticator
-- Mobile gateway to Freeflow pages
 - Mobile access to TF support chat
+- News Feed
 
 ## Download
 
