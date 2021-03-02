@@ -7,8 +7,9 @@ All nodes on the ThreeFold Grid need a 3Bot to:
 - Link a wallet address to a farm
 
 Since BetterToken has completed this process for you it is now linked to the BetterToken 3Bot.
-You can if you want create your own Hosted 3Bot and we will gladly link your 3Bot to the farm.
+You can if you want create your own Hosted 3Bot and we will gladly link your 3Node to your Farm.
 In this section of the wiki we will go over the steps to add your farm to your 3Bot. (this does require some technical skills)
+Keep in mind this process has no impact on your farming performance or yields.
 
 ## Prerequisites
 

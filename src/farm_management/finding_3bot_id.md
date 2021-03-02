@@ -10,4 +10,4 @@ roel_brobot(634) = 3Botname(3BotID) < **The number between brackets is the ID we
 
 Please communicate this ID with your contact so we can hand over the farm management to your ID.
 
-[Step 6: Find your 3bot ID](install_farm_management.md)
+[Step 6: Install Farm Management Package](install_farm_management.md)

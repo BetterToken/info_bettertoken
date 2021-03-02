@@ -9,6 +9,7 @@ Please include in this email:
 - Farm name
 - ThreeFold Wallet Address
 
+Keep in mind: The tokens we send you will be a very limited amount to get your Hosted 3Bot up and running for a while. You will have to back up your 3Bot name and recovery password if you wish to ever change something about your farm again. This to start it up again once or if you decide to do so.
 
 ## How To Get Your Wallet Address
 

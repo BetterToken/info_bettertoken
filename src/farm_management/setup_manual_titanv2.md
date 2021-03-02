@@ -1,6 +1,6 @@
-![nodes](soho_nodes.jpg)
+![nodes](titan_side.jpg)
 
-# 3Node Setup Guide
+# Titan V2 Setup Guide
 
 **Congratulations on becoming a Threefold Farmer!**
 In order to add your 3Node to the Threefold Grid a few steps
@@ -11,21 +11,24 @@ Inspect the package and its contents directly after delivery and report any ship
 
 Verify package contents:
 
-- 1x 3Node
+- 1x Titan V2 3Node
 - 1x Power adapter
 - 1x USB Drive (already plugged into the 3Node)
 
+
 ## Step 2: Connecting the 3Node to a power source and modem
 
+![nodes](titan_backview.jpg)
 1. Connect the power cable to the power adapter.
 2. Connect the power adapter to the “DC-12V” connector at the back of the 3Node.
-3. Connect one end of the provided Ethernet cable to the “LAN” connector at the back of the 3Node and the other end to an available Ethernet port on your home router. *
+3. Connect one end of the provided Ethernet cable to the “LAN” connector at the back of the 3Node and the other end to an available Ethernet port on your home router.
 4. Connect the power cable to a power outlet.
 5. Press the power on button, light should provide visual confirmation that the 3Node is now running. 
 
 **IMPORTANT: Home router ports that can be used for this purpose are typically labelled “Port 1-4”. If you are unsure which port to use, please refer to the User Documentation of the router and check which port should be used.**
 
 PLEASE NOTE: A 3Node should always be placed on a dust-free and flat service located close to your home modem (not provided by Threefold). The 3Node is designed to be exposed to in-house conditions and should never be placed in direct sunlight, extreme temperatures (hot/cold) or humid areas.
+
 
 ## Step 3: Adding your farm to your 3Bot (optional)
 
