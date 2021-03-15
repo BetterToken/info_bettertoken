@@ -1,5 +1,5 @@
 - [Home](readme.md)
-- [Farming & Farming Services](what_is_farming.md)
+- [Farming & Farming Services](farming_intro.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)
         - [Titan Node v2](titan_node_v2.md)
