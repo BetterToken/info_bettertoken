@@ -2,7 +2,7 @@
 
 Finding your 3Bot ID is very straight forward.
 
-![alt](topleft_menu_3bot.png)
+![alt](./img/topleft_menu_3bot.png)
 
 In this example:
 
