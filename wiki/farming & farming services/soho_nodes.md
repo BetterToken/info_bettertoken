@@ -1,5 +1,3 @@
-![SoHo Nodes](soho_nodes.jpg)
-
 # SoHo Nodes
 In collaboration with Mazraa.io we have come up with 3 so called SoHo Nodes.
 SoHo stands for Small Office Home Office as these nodes can be put almost everywhere.

@@ -4,12 +4,12 @@
 
 **Congratulations on becoming a Threefold Farmer!**
 In order to add your 3Node to the Threefold Grid a few steps
-need to be taken. Once completed you will be able to see the status of your 3Node. If you have any additional questions or issues, feel free to contact us through [support@bettertoken.com](mailto:support@bettertoken.com)
+need to be taken. Once completed you will be able to see the status of your 3Node. If you have any additional questions or issues, feel free to contact us through [nodesupport@threefold.tech](mailto:nodesupport@threefold.tech)
 
 ![nodes](venus_frontview.jpg)
 
 ## Step 1: Verify package contents
-Inspect the package and its contents directly after delivery and report any shipping damages to support@bettertoken.com immediately.
+Inspect the package and its contents directly after delivery and report any shipping damages to nodesupport@threefold.tech immediately.
 
 Verify package contents:
 
@@ -33,7 +33,7 @@ PLEASE NOTE: A 3Node should always be placed on a dust-free and flat service loc
 
 ## Step 3: Adding your farm to your 3Bot (optional)
 
-**If you are fine with your Farm being linked to the BetterToken 3Bot you can skip this step.**
+**If you are fine with your Farm being linked to the ThreeFold Tech 3Bot you can skip this step.**
 
 1. Head over to our [Farm Setup & Management](farm_management_intro.md) section and complete the steps to add your farm to a 3Bot.
 2. Head over to our [ThreeFold Explorer](https://explorer.threefold.io/) to see if your 3Node is up and running by searching your farm name.
@@ -53,4 +53,4 @@ Please verify the following connections:
 1. Make sure your search query is correctly spelled when searching your farm name (please toggle "show offline nodes" when doing so).
 2. Make sure your network connection is healthy and up and there are no outages in your area.
 
-If both check out please contact support through [support@bettertoken.com](mailto:support@bettertoken.com)
+If both check out please contact support through [nodesupport@threefold.tech](mailto:nodesupport@threefold.tech)

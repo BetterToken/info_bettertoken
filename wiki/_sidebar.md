@@ -2,8 +2,6 @@
 - [Farming & Farming Services](farming_intro.md)
     - [3Nodes](3nodes.md)
     - [SoHo Nodes](soho_nodes.md)
-        - [Titan Node v2](titan_node_v2.md)
-        - [Venus Node v2](venus_node_v2.md)
     - [Node Hosting](node_hosting.md)
     - [Cloud Farming (future)](cloudfarming.md)
     - [Concepts & Definitions](concepts_definitions.md)

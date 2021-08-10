@@ -18,6 +18,3 @@ The Titan Node V2 is a medium sized node that already packs quite a punch and wi
 * Height 200 mm
 * Depth 380 mm  
 
-## Simulations
-
-!!!include:simulation_note.md
