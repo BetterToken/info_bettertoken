@@ -1,0 +1,1 @@
+>We are not in a position to provide any ROI numbers for this ThreeFold Node as doing so could be regarded as investment advice. 
