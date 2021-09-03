@@ -1,4 +1,4 @@
-![cloudfarming](cloudfarming.jpg)
+![cloudfarming](img/cloudfarming.jpg)
 
 # Cloud Farming (future)
 

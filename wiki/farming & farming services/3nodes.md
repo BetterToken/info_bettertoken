@@ -1,4 +1,4 @@
-![3node](3node.png)
+![3node](img/3node.png)
 
 # 3Nodes
 
@@ -25,4 +25,3 @@ Cultivation is no more than people reserving the capacity on a 3Node.
 When a user decides to use a farmer's capacity, the farmer in return will receive tokens.
 
 !!!include:note_of_importance.md
-

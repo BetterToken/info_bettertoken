@@ -17,14 +17,14 @@ Keep in mind this process has no impact on your farming performance or yields.
 There are some pre-requisites you need to meet before you can create you own 3Bot.
 You will need:
 
-1. [The 3Bot Connect App installed to your phone or tablet](get_3bot_connect.md)
-2. [At least a few ThreeFold Tokens in your Wallet to create your 3Bot](get_tft_from_bt.md)
+1. [The 3Bot Connect App installed to your phone or tablet](get_3bot_connect)
+2. [At least a few ThreeFold Tokens in your Wallet to create your 3Bot](get_tft_from_bt)
 3. [A Public SSH key to link to your 3Bot](generate_and_ssh_key.md)
 
 Once these steps are completed you can now move on to part 2.
 
 ### Part 2.
 
-1. [Setting up your Hosted 3Bot](getting_a_hosted_3bot.md)
-2. [Finding Your 3Bot ID](finding_3bot_id.md)
-3. [Installing Farm Management Tool](install_farm_management.md)
+1. [Setting up your Hosted 3Bot](getting_a_hosted_3bot)
+2. [Finding Your 3Bot ID](finding_3bot_id)
+3. [Installing Farm Management Tool](install_farm_management)

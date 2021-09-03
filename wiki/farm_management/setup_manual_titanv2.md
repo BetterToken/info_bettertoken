@@ -1,4 +1,4 @@
-![nodes](titan_side.jpg)
+![nodes](img/titan_side.jpg)
 
 # Titan V2 Setup Guide
 
@@ -18,7 +18,7 @@ Verify package contents:
 
 ## Step 2: Connecting the 3Node to a power source and modem
 
-![nodes](titan_backview.jpg)
+![nodes](img/titan_backview.jpg)
 1. Connect the power cable to the power adapter.
 2. Connect the power adapter to the “DC-12V” connector at the back of the 3Node.
 3. Connect one end of the provided Ethernet cable to the “LAN” connector at the back of the 3Node and the other end to an available Ethernet port on your home router.
@@ -34,7 +34,7 @@ PLEASE NOTE: A 3Node should always be placed on a dust-free and flat service loc
 
 **If you are fine with your Farm being linked to the BetterToken 3Bot you can skip this step.**
 
-1. Head over to our [Farm Setup & Management](farm_management_intro.md) section and complete the steps to add your farm to a 3Bot.
+1. Head over to our [Farm Setup & Management](farm_management_intro) section and complete the steps to add your farm to a 3Bot.
 2. Head over to our [ThreeFold Explorer](https://explorer.threefold.io/) to see if your 3Node is up and running by searching your farm name.
 
 ## Troubleshooting

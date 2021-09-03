@@ -1,4 +1,4 @@
-![nodes](venus_sideview.jpg)
+![nodes](img/venus_sideview.jpg)
 
 # 3Node Setup Guide
 
@@ -6,7 +6,7 @@
 In order to add your 3Node to the Threefold Grid a few steps
 need to be taken. Once completed you will be able to see the status of your 3Node. If you have any additional questions or issues, feel free to contact us through [nodesupport@threefold.tech](mailto:nodesupport@threefold.tech)
 
-![nodes](venus_frontview.jpg)
+![nodes](img/venus_frontview.jpg)
 
 ## Step 1: Verify package contents
 Inspect the package and its contents directly after delivery and report any shipping damages to nodesupport@threefold.tech immediately.
@@ -18,7 +18,7 @@ Verify package contents:
 - 1x USB Drive (already plugged into the 3Node)
 
 
-![nodes](venus_backview.jpg)
+![nodes](img/venus_backview.jpg)
 ## Step 2: Connecting the 3Node to a power source and modem
 
 1. Connect the power cable to the power adapter.
@@ -35,7 +35,7 @@ PLEASE NOTE: A 3Node should always be placed on a dust-free and flat service loc
 
 **If you are fine with your Farm being linked to the ThreeFold Tech 3Bot you can skip this step.**
 
-1. Head over to our [Farm Setup & Management](farm_management_intro.md) section and complete the steps to add your farm to a 3Bot.
+1. Head over to our [Farm Setup & Management](farm_management_intro) section and complete the steps to add your farm to a 3Bot.
 2. Head over to our [ThreeFold Explorer](https://explorer.threefold.io/) to see if your 3Node is up and running by searching your farm name.
 
 ## Troubleshooting

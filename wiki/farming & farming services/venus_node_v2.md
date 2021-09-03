@@ -1,4 +1,4 @@
-![venus node](venusnode.png)
+![venus node](img/venusnode.png)
 
 # Venus Node V2
 The Venus V2 node is the mother of the smaller 3nodes.

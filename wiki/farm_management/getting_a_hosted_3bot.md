@@ -16,4 +16,4 @@
 - Step 13 - Container Access: If your payment succeeds you will get the container access screen, you can ignore this.
 - Step 14 - Success: You can now visit your Hosted 3Bot through the link provided in the success screen.
 
-[Step 5: Find your 3bot ID](finding_3bot_id.md)
+[Step 5: Find your 3bot ID](finding_3bot_id)

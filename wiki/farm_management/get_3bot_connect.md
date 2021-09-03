@@ -1,6 +1,6 @@
 # Get The ThreeFold Connect App
 
-![alt](./img/3bot_connect_4screens.jpg)
+![alt](img/3bot_connect_4screens.jpg)
 ## Introduction
 
 3Bot Connect is an app that is more than just a wallet. It is:
@@ -35,4 +35,4 @@ We highly recommend writing down your seed key on a paper and store it safely of
 
 Finish these steps and choose your new pin, then confirm it and confirm your email address.
 
-[Step 2: Acquiring ThreeFold Tokens](get_tft_from_bt.md)
+[Step 2: Acquiring ThreeFold Tokens](get_tft_from_bt)

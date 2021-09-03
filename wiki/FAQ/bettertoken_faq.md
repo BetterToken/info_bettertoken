@@ -22,14 +22,14 @@ BetterToken has a dedicated fiber connection to its datacenter of 1GBit up/down.
 This boils down to 120MB per second (give or take).
 
 ### I Want to Become a Farmer but I Am Not Technical at All and I Don't Know Where to Start. What Should I Do?
-BetterToken has multiple options available to anyone, no technical experience is needed to: [Host A Node](node_hosting.md), Run a [SoHo Node](soho_nodes.md), or in the future become a [Cloud Farmer](cloudfarming.md). Feel free to reach out to us on [support@bettertoken.com](mailto:support@bettertoken.com) at any time if you need additional help. We are more than happy to help you.
+BetterToken has multiple options available to anyone, no technical experience is needed to: [Host A Node](node_hosting), Run a [SoHo Node](soho_nodes), or in the future become a [Cloud Farmer](cloudfarming). Feel free to reach out to us on [support@bettertoken.com](mailto:support@bettertoken.com) at any time if you need additional help. We are more than happy to help you.
 
 ## SoHo Nodes
 
 ### What Does Plug & Farm Mean?
 
 ### How Many ThreeFold Tokens Will SoHo Nodes Farm For Me?
-In the [SoHo Node section](soho_nodes.md) we have added 3 simulations for each node.
+In the [SoHo Node section](soho_nodes) we have added 3 simulations for each node.
 Important to note is that these are simulations of scenarios that could happen but should not be looked at as a guarantee in any shape or form.
 
 ### What is the warrantee period for a SoHo Node?
@@ -57,7 +57,6 @@ No, all nodes entering our datacenter are to be assembled by trusted partners of
 
 ### What Are The Service BetterToken Provides To Help People Get Workloads Running On The ThreeFold Grid?
 We have an array of services we provide to get our customers up and running.
-Most of them can be found [here in our Applications & Solution](solutions_applications.md) section of the wiki.
-
+Most of them can be found [here in our Applications & Solution](solutions_applications) section of the wiki.
 
 
