@@ -19,4 +19,4 @@ She comes in around the same size of a small pc tower and packs a lot of power!
 * Height 330 mm
 * Depth 400 mm 
 
-!!!include:simulation_note.md
+!!!include:simulation_note

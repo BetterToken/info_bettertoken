@@ -23,4 +23,4 @@ Please reach out to the email address below if you have additional questions or 
 
 [Contact BetterToken](mailto:info@bettertoken.com)
 
-!!!include:note_of_importance.md
+!!!include:note_of_importance

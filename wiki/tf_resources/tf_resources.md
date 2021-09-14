@@ -10,4 +10,4 @@ Token Resources
 - [What Are ThreeFold Tokens](tf_token_what)
 - [Tokenomics](tf_tokenomics.md)A 
 
-!!!include:tf_resources_notice.md
+!!!include:tf_resources_notice

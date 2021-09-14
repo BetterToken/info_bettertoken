@@ -14,4 +14,4 @@ This CPR will be cut up into packages. These packages will be made available in 
 
 [Contact BetterToken](mailto:info@bettertoken.com)
 
-!!!include:note_of_importance.md
+!!!include:note_of_importance

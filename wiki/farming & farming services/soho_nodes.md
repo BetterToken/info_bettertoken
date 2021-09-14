@@ -16,4 +16,4 @@ BetterToken delivers all nodes in batches of 50 for multiple reasons:
 # Pre-register
 To order a node you can contact us directly or go to the [farmer.threefold.io](https://farmer.threefold.io) page. This page is an initiave of the ThreeFold Foundation to gather interest for the upcoming batches. All nodes ordered within EU borders automatically will be passed on by ThreeFold Foundation to us for processing. 
 
-!!!include:note_of_importance.md
+!!!include:note_of_importance
