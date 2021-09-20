@@ -1,6 +1,6 @@
 # ThreeFold Foundations Resources.
 
-In this part of the wiki we will gather and include resources coming from the [ThreeFold Foundation Wiki](https://wiki.threefold.io) that have impact on BetterToken's way of working, or contain information our customers should be aware.
+In this part of the wiki we will gather and include resources coming from the [ThreeFold Foundation Wiki](https://library.threefold.me) that have impact on BetterToken's way of working, or contain information our customers should be aware.
 
 Grid Resources
 - [ThreeFold Grid Introduction](grid_intro): A high level introduction on the ThreeFold Grid.
