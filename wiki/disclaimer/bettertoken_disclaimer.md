@@ -1,16 +1,16 @@
-# BetterToken Disclaimer
+# BetterToken bettertoken_disclaimer
 
 Information has been carefully checked and is believed to be accurate; however, no responsibility is assumed for inaccuracies.
 
 BetterToken BV (hereinafter referred to as “BetterToken") reserves the right to make changes without further notice to any products to improve reliability, function, or design. 
 
-## Disclaimer
-Your use of the TFGrid and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens, as well as adding capacity to the ThreeFold Grid or using services that do this for you. (hereinafter collectively also referred to as the “Services”) will be subject to the warnings, limitations, acknowledgements and disclaimers set out hereinafter. These statements and disclaimers are made by and on behalf of Bettertoken and any person contributing or otherwise assisting in developing, marketing or distributing the Services.
+## bettertoken_disclaimer
+Your use of the TFGrid and/or TFTs, as well as the IT capacity made available from the TFGrid to the Internet, as well as any tools provided to work with TFGrid or TFTokens, as well as adding capacity to the ThreeFold Grid or using services that do this for you. (hereinafter collectively also referred to as the “Services”) will be subject to the warnings, limitations, acknowledgements and bettertoken_disclaimers set out hereinafter. These statements and bettertoken_disclaimers are made by and on behalf of Bettertoken and any person contributing or otherwise assisting in developing, marketing or distributing the Services.
 
-Anybody making any of the Services provided BetterToken automatically agrees with the [ThreeFold Disclaimer](disclaimer) as all Services are directly related to ThreeFold and/or the ThreeFold Grid.
+Anybody making any of the Services provided BetterToken automatically agrees with the [ThreeFold bettertoken_disclaimer](bettertoken_disclaimer) as all Services are directly related to ThreeFold and/or the ThreeFold Grid.
 
 ## Service Packs 
-This sections of the disclaimer applies to the BetterToken Service Packs.
+This sections of the bettertoken_disclaimer applies to the BetterToken Service Packs.
 
 ### Order Agreement
 Scopes of Service Pack Projects are always to be agreed upon in writing by both parties.
@@ -22,7 +22,7 @@ BetterToken nor companies that under a partner agreement execute orders within t
 - Not responsible for the contents of services brought live. It is the clients duty that no illegal activities are tied to the services brought live as stipulated in the order agreement.
 
 ## Physical Goods Warranty 
-This sections of the disclaimer is a Limited Warranty which applies to physical goods, and and physical goods alone, purchased from BetterToken.
+This sections of the bettertoken_disclaimer is a Limited Warranty which applies to physical goods, and and physical goods alone, purchased from BetterToken.
 
 ### Coverage of the Warranty 
 During the Warranty Period, BetterToken will repair or replace, at no charge, products or parts of a product that proves defective because of improper material and/or workmanship, under normal use and maintenance. 

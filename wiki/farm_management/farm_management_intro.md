@@ -19,7 +19,7 @@ You will need:
 
 1. [The 3Bot Connect App installed to your phone or tablet](get_3bot_connect)
 2. [At least a few ThreeFold Tokens in your Wallet to create your 3Bot](get_tft_from_bt)
-3. [A Public SSH key to link to your 3Bot](generate_and_ssh_key.md)
+3. [A Public SSH key to link to your 3Bot](generate_an_ssh_key.md)
 
 Once these steps are completed you can now move on to part 2.
 

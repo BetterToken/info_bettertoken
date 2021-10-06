@@ -3,7 +3,7 @@
 This privacy policy will explain how Bettertoken BVBA, ("company", “we”, or “us”) uses the personal data we collect from you when you use any of the following website:
 
 
-[www.bettertoken.com](www.bettertoken.com)
+[www.bettertoken.com](https://www.bettertoken.com)
 
 
 ### What data do we collect? 
