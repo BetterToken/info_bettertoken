@@ -4,7 +4,7 @@
     - [SoHo Nodes](@soho_nodes)
     - [Node Hosting](@node_hosting)
     - [Cloud Farming (future)](@cloudfarming)
-    - [Concepts & Definitions](@definitions_concepts.md)
+    - [Concepts & Definitions](@threefold:definitions_concepts)
         - [Cloud Units](@threefold:cloudunits)
         - [Cloud Productions Rate](@cpr.md)
     - [Farm Setup & Management](@farm_management_intro)
