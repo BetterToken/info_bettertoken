@@ -1,1 +1,0 @@
-[remoteMarkdownUrl](https://raw.githubusercontent.com/threefoldfoundation/info_foundation/development/src/token/token_what.md)
